@@ -1,6 +1,25 @@
-# SpaceInvaderwithGestures
-A project to make a game which is gesture controlled using opencv library of Python.
+👾 Space Invader Game – Hand Gesture Controlled
+A modern twist on the classic Space Invader game, built using Python and Pygame, enhanced with hand-tracking controls using OpenCV and MediaPipe. Control your spaceship with your hand gestures — no keyboard needed!
 
-The initial idea was to make the game playable only through keyboard. But soon it was clear that it was a tedious as well as a hard job to do. So I decided to make the game in such a way that one can move the character through hand gestures and require the keyboard only to shoot the bullets. This will make it easy for the new players to play the game.
+🚀 Features
+🎮 Classic Space Invader-style gameplay
 
-I made 2 programs to see if it is working or not. They are main.py and gesture.py.
+🖐️ Hand gesture control of the spaceship using your webcam
+
+🎯 Shoot bullets to destroy enemy ships
+
+🧠 Real-time hand tracking using MediaPipe
+
+🔊 Sound effects for shooting and collisions (optional)
+
+⚡ Responsive controls and smooth gameplay
+
+🛠️ Technologies Used
+Python 3.x
+
+Pygame – Game loop, rendering, and events
+
+OpenCV – Webcam access and frame processing
+
+MediaPipe – Real-time hand tracking and gesture detection
+
